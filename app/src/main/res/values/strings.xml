@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="popupText">I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged</string>
+    <string name="new_game">New game</string>
+    <string name="about">About</string>
+    <string name="id_1111_name_mikhail">Id: 1111. Name: Mikhail</string>
+    <string name="close">Close</string>
+    <string name="equals">==</string>
+    <string name="greater">Greater</string>
+    <string name="less">Less</string>
+    <string name="timer">00:50</string>
+    <string name="play_again">To play again press the Back mobile device button</string>
+</resources>
